@@ -16,7 +16,7 @@ firebase.initializeApp({
 var db = firebase.firestore()
 
 
-/*
+
 const json = require('./manga_data.json')
 var manga = json;
 
@@ -32,7 +32,8 @@ manga.forEach(function(obj) {
         paginas: obj.paginas,
         tamaño: obj.tamaño,
         resumen: obj.resumen,
-        url: obj.url
+        url: obj.url,
+        idColeccion: obj.idColeccion
     }).then(function(docRef) {
         console.log("Document written with ID: ", docRef.id);
     })
@@ -41,7 +42,7 @@ manga.forEach(function(obj) {
     });
 });
 
-*/
+
 
 
 /*
@@ -79,6 +80,7 @@ toplist.forEach(function(obj_top) {
 */
 
 
+/*
 const json_autores = require('./autores.json')
 var autores = json_autores
 
@@ -93,4 +95,4 @@ autores.forEach(function(obj_autores) {
     .catch(function(error) {
         console.error("Error adding document: ", error);
     });
-});
+});*/
