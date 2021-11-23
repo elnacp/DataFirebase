@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "manga-rock-bd",
+  "private_key_id": "e641a09b186cfbc65624cc358ade9ae3b51c7790",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7BP8JgKKepcsV\nRPFBPJxsJz3KQxUnN+tDnnUSNpHKA9eawNfCdAC79lt8L2wXXM9kprFGxy5odbln\nqssn2q9ciuYg7JTMPK2RpGkSmLCIzgdq2MJI7kXvAhZAXM+NfjPRxBy525Rbdmp8\n1SuF1pNiPNXD4SeTcXcGueA24lQx8g/8i/JxCgpvfdIJexT9JY8an+4yqsl/RBhf\nTRVd4Q5bddQ8loxDEDeQ719HIe8AVEnExbZv7UxzslCD0voaLH2X1X4U9dizBiGu\nbvcCWgqJjzF9rnXydw8EVauTr/KCng6ZDsKcKDOVCUKKF1gg7hLFDYGvcWUkSS8K\nhJbKwauJAgMBAAECggEAHmmqFcAC8fyxIVTUTNEP+PCKtlUhX/7Sde0TSbJxE+J7\nEdHxZFBb/DUMXI4TrFrt6QbIhmOGsvsN+wNFxUXlRY3a7Zi7e9kUOr57Tchh0OV8\nRE5ajeSdn8f9mVreb7qJr7+OElVYc2U23PUHflzOG+gbtR5swqftfL0GbrZwjaxx\nEgQz/lpKdg1GgaiqGehHsWbk8/iFfTRd2yCSel8uQfe7lh5+H2lVWxZWLcs5M9MP\njfcYzQ1DG9UqFkJEndI5XPcdSAUVWdBFj7fETKvAjRQyT4I89e3xglK5azGn3+Mr\nsA/8rrS+kHkN5+qCHBbHkYHjKOxFqxna4utsNYBm3wKBgQD/iIesmdJAE6Llou9h\nKarNTtO864A6qrpjzK3AFlKg1+uj3O6zBHvCZ9ZD68MxbsNpOoBKaVJckcvOliRG\nIHOHImvss2jnhEdaZM4B8Ibk7SLiCuN5eC8VMBFVtuvIVxjy9VJVG9wS1JfAuAZ5\nb7Zg90beCpGFAVx4Mi6UGiDrLwKBgQC7XG8Rf5VzkGH0PrD8/cI6YBZDfSc7Zq7W\n/pW7/j3V3jGlxzHaeMhxpLc3YshlODPrjY7xWUt1/MXgnqJMovOnGhYgUx4NzkBZ\nTB52+YnnE8y7WzEDwHvZlkm/CelJd8W70+GYA1f/6QkRegtYMsaKoZpgjxbkgt/j\nNGArC+RGxwKBgCkYoBlWM8YyYkRkS/NobBvQzaTYiyrkQk3CoT7/WBKeJzuXUJxh\n4DWH1aHezOmqUqsdyXwuLBzPJeP3qaXNmkbldk3/HKP/Vipng+oz8L3olW+dKLBk\nb84MiP0sCgeSWmTYp4EglehBYJaSAhiNqts1aaRUNssZSPHbwDn5acnpAoGAc393\nuIG9z4+h0r8Su+JyaSnyj4gHN0cFYONvyoPf+ocOc/NneBYc+nFfwHTUtBEBcKPD\nCmTRb9py4RTpV/Tb3pbmLOcQD9KlOGcEILOTny9FdfmxLW7q6icLLwkdFn0PF8p1\ntw/Yn5k4Td2+QJCMc8lLMVsD8bn76kPPRLn/7uECgYBnm6DOmsqRXj973RBb3edx\nhmhE2IMlr+kUhajmfFWjADCx2MAsjaQuMcgSSpiJK3xkqRQS/yKJ3Sun8KtRBOQm\nVEG08pwAJhQGE3jFab4Q0umc3OIX5FC48McF5CPo/NwvKdNiQ7G1ZagFlDbZlsf3\nXilGI5jk8Yqo0jX5C5fcXA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wbnoa@manga-rock-bd.iam.gserviceaccount.com",
+  "client_id": "103093061560097559223",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wbnoa%40manga-rock-bd.iam.gserviceaccount.com"
+}
