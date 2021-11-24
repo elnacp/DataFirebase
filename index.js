@@ -16,7 +16,7 @@ firebase.initializeApp({
 var db = firebase.firestore()
 
 
-
+/*
 const json = require('./manga_data.json')
 var manga = json;
 
@@ -41,6 +41,7 @@ manga.forEach(function(obj) {
         console.error("Error adding document: ", error);
     });
 });
+*/
 
 
 
@@ -96,3 +97,50 @@ autores.forEach(function(obj_autores) {
         console.error("Error adding document: ", error);
     });
 });*/
+
+/*
+const json_comentarios = require('./comentarios.json')
+var comentarios = json_comentarios
+
+comentarios.forEach(function(obj_comentarios) {
+    db.collection("Comentario").add({
+        IdComentario: obj_comentarios.IdComentario,
+        IdUsuario: obj_comentarios.IdUsuario,
+        IdManga: obj_comentarios.IdManga,
+        Valoracion: obj_comentarios.Valoracion,
+        Comentario: obj_comentarios.Comentario,
+        fecha: obj_comentarios.fecha,
+        Likes: obj_comentarios.Likes,
+        Dislikes: obj_comentarios.Dislikes
+    }).then(function(docRef) {
+        console.log("ID comentarios: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
+});*/
+
+
+const json_user = require('./users.json')
+var users = json_user
+
+users.forEach(function(obj_users){
+    db.collection("Users").add({
+        id: obj_users.id,
+        username: obj_users.username,
+        email: obj_users.email,
+        contraseña: obj_users.contraseña,
+        descripcion: obj_users.descripcion,
+        generoFavorito: obj_users.generoFavorito,
+        loggeado: obj_users.loggeado,
+        idMangas: obj_users.idMangas,
+        followers: obj_users.followers,
+        following: obj_users.following,
+        imagen: obj_users.imagen
+    }).then(function(docRef) {
+        console.log("ID users: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
+});

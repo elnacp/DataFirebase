@@ -1,0 +1,41 @@
+IdComentario,IdUsuario,IdManga,Valoracion,Comentario,fecha,Likes,Dislikes
+1,5,75,3,Mencanta el manga,9/5/16,40,44
+2,5,47,5,Que bonita historia,9/11/21,49,39
+3,0,40,3,No me gusta nada ,3/11/20,50,58
+4,0,24,4,Es muy original ,2/27/16,29,95
+5,0,77,0,Creo que no se parece nada a la historia del manga anterior,6/7/19,38,29
+6,1,23,2,Mencanta el manga,5/1/17,69,67
+7,5,39,3,Que bonita historia,9/7/17,13,23
+8,4,15,2,No me gusta nada ,6/27/19,51,21
+9,1,20,2,Es muy original ,7/28/17,97,44
+10,0,66,3,Creo que no se parece nada a la historia del manga anterior,4/4/18,71,3
+11,2,35,3,Mencanta el manga,12/31/19,95,79
+12,0,35,3,Que bonita historia,2/3/20,33,83
+13,3,56,5,No me gusta nada ,1/27/18,78,55
+14,4,77,5,Es muy original ,4/2/16,4,24
+15,1,40,2,Creo que no se parece nada a la historia del manga anterior,2/28/20,71,69
+16,0,86,3,Mencanta el manga,6/9/18,42,11
+17,5,29,1,Que bonita historia,4/25/19,25,80
+18,3,42,1,No me gusta nada ,5/17/21,39,27
+19,0,46,4,Es muy original ,1/20/21,21,36
+20,0,39,1,Creo que no se parece nada a la historia del manga anterior,12/1/19,55,26
+21,2,63,5,Mencanta el manga,9/12/17,93,21
+22,5,73,3,Que bonita historia,10/10/19,89,13
+23,4,55,1,No me gusta nada ,10/30/20,0,63
+24,5,19,5,Es muy original ,7/28/20,16,63
+25,2,19,5,Creo que no se parece nada a la historia del manga anterior,4/14/20,19,62
+26,5,60,4,Mencanta el manga,5/22/21,18,71
+27,2,79,4,Que bonita historia,10/26/18,49,81
+28,5,47,4,No me gusta nada ,7/19/17,43,14
+29,5,16,1,Es muy original ,10/5/16,14,14
+30,0,56,0,Creo que no se parece nada a la historia del manga anterior,11/27/16,13,72
+31,1,9,4,Mencanta el manga,11/12/17,94,13
+32,0,38,1,Que bonita historia,11/3/21,48,96
+33,4,6,1,No me gusta nada ,8/24/21,32,37
+34,5,17,4,Es muy original ,6/10/17,81,76
+35,3,40,2,Creo que no se parece nada a la historia del manga anterior,8/14/16,50,31
+36,1,61,4,Mencanta el manga,5/9/21,51,95
+37,5,33,3,Que bonita historia,8/5/17,76,36
+38,3,58,1,No me gusta nada ,12/2/20,22,76
+39,3,32,5,Es muy original ,4/9/16,54,22
+40,0,71,2,Creo que no se parece nada a la historia del manga anterior,10/14/21,32,72

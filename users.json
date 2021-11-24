@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "username": "elnacp",
+    "email": "elnacp@gmail.com",
+    "contraseña": 1234,
+    "descripcion": "Apasionada de los mangas",
+    "generoFavorito": "Fantasia",
+    "loggeado": "no",
+    "idMangas": [],
+    "followers": 10,
+    "following": [
+      2,
+      3,
+      4
+    ],
+    "imagen": "https://www.google.com/search?q=imagenes+de+perfil&sxsrf=AOaemvJRVoF3w85Oy2ILvT0eZF0SEtb9rA:1637794102985&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdsOS9irL0AhURS_EDHVErCtgQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=YwKR8_XSJOwizM"
+  },
+  {
+    "id": 2,
+    "username": "rafanator",
+    "email": "rafanator@gmail.com",
+    "contraseña": 1234,
+    "descripcion": "Apasionado de los mangas de aventuras",
+    "generoFavorito": "Deportes",
+    "loggeado": "no",
+    "idMangas": [
+      1,
+      2
+    ],
+    "followers": 5,
+    "following": [
+      3,
+      4,
+      5
+    ],
+    "imagen": "https://www.google.com/search?q=imagenes+de+perfil&sxsrf=AOaemvJRVoF3w85Oy2ILvT0eZF0SEtb9rA:1637794102985&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdsOS9irL0AhURS_EDHVErCtgQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=ss224hGdub6tDM"
+  },
+  {
+    "id": 3,
+    "username": "riquichin",
+    "email": "riquichi@gmail.com",
+    "contraseña": 1234,
+    "descripcion": "Apasionado de los mangas de aventuras",
+    "generoFavorito": "Fantasia",
+    "loggeado": "no",
+    "idMangas": [
+      1,
+      2
+    ],
+    "followers": 4,
+    "following": [
+      6
+    ],
+    "imagen": "https://www.google.com/search?q=imagenes+de+perfil&sxsrf=AOaemvJRVoF3w85Oy2ILvT0eZF0SEtb9rA:1637794102985&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdsOS9irL0AhURS_EDHVErCtgQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=_zAlB_ps2O35tM"
+  },
+  {
+    "id": 4,
+    "username": "melancolica",
+    "email": "melancolica@gmail.com",
+    "contraseña": 1234,
+    "descripcion": "Apasionada de los mangas",
+    "generoFavorito": "Misterio",
+    "loggeado": "no",
+    "idMangas": [
+      1,
+      2
+    ],
+    "followers": 3,
+    "following": [
+      7
+    ],
+    "imagen": "https://www.google.com/search?q=imagenes+de+perfil&sxsrf=AOaemvJRVoF3w85Oy2ILvT0eZF0SEtb9rA:1637794102985&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdsOS9irL0AhURS_EDHVErCtgQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=4_J8rwj0GeWPTM"
+  },
+  {
+    "id": 5,
+    "username": "cintosauros",
+    "email": "cintosauros@gmail.com",
+    "contraseña": 1234,
+    "descripcion": "Apasionada de los mangas",
+    "generoFavorito": "Comedia",
+    "loggeado": "no",
+    "idMangas": [
+      1,
+      2
+    ],
+    "followers": 5,
+    "following": [
+      3
+    ],
+    "imagen": "https://www.google.com/search?q=imagenes+de+perfil&sxsrf=AOaemvJRVoF3w85Oy2ILvT0eZF0SEtb9rA:1637794102985&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdsOS9irL0AhURS_EDHVErCtgQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=yigYDnWolrMwPM"
+  },
+  {
+    "id": 6,
+    "username": "peliroja",
+    "email": "peliroja@gmail.com",
+    "contraseña": 1234,
+    "descripcion": "Apasionada de los mangas",
+    "generoFavorito": "Romance",
+    "loggeado": "no",
+    "idMangas": [
+      1,
+      2
+    ],
+    "followers": 1,
+    "following": [
+      1
+    ],
+    "imagen": "https://www.google.com/search?q=imagenes+de+perfil&sxsrf=AOaemvJRVoF3w85Oy2ILvT0eZF0SEtb9rA:1637794102985&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdsOS9irL0AhURS_EDHVErCtgQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=m6oiUiba13JJUM"
+  },
+  {
+    "id": 7,
+    "username": "golum",
+    "email": "golum@gmail.com",
+    "contraseña": 1234,
+    "descripcion": "Apasionado de los mangas de aventuras",
+    "generoFavorito": "Aventura",
+    "loggeado": "no",
+    "idMangas": [
+      85,
+      87,
+      89
+    ],
+    "followers": 20,
+    "following": [
+      2,
+      3
+    ],
+    "imagen": "https://www.google.com/search?q=imagenes+de+perfil&sxsrf=AOaemvJRVoF3w85Oy2ILvT0eZF0SEtb9rA:1637794102985&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdsOS9irL0AhURS_EDHVErCtgQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=5sI9dT4o1mYy-M"
+  }
+]
