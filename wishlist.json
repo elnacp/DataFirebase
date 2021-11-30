@@ -1,0 +1,47 @@
+[
+  {
+    "username": "elnacp",
+    "id": 2,
+    "titulo": "Death Note 2",
+    "autor": "Tetsurō Araki",
+    "valoracion": 4.3,
+    "precio": 7.5,
+    "genero": "Fantasia, Misterio",
+    "idioma": "Español",
+    "paginas": 120,
+    "tamaño": 50,
+    "resumen": "Light Yagami, aplicado estudiante modelo, se aburre soberanamente. Pero cuando encuentra un misterioso cuaderno, ante él se abren infinidad de posibilidades: con el poder de la vida o la muerte de sus semejantes en sus manos, ¿qué camino escogerá? ¿Ayudar o crear un mundo en el que él sea el señor supremo? ¡El manga que revolucionó el género shonen en una edición con diseño exclusivo para NORMA Editorial!",
+    "url": "https://www.normaeditorial.com/upload/media/albumes/0001/05/39fd8afa54a67e373287b4c98a3b1b6f0a376883.jpeg",
+    "idColeccion": 1
+  },
+  {
+    "username": "elnacp",
+    "id": 10,
+    "titulo": "One Piece 4",
+    "autor": "Eiichiro Oda",
+    "valoracion": 4.5,
+    "precio": 7,
+    "genero": "Aventura",
+    "idioma": "Español",
+    "paginas": 150,
+    "tamaño": 90,
+    "resumen": "Sigue las aventuras de Monkey D. Luffy, un chico muy especial y elástico, que sueña con ser el rey de los piratas y encontrar una gran tesoro: el One Piece. Para ello, se hace a la mar en un bote con el que buscará la tripulación que le pueda ayudar en su misión.",
+    "url": "https://static.wikia.nocookie.net/onepiece/images/9/97/Volumen_4.png/revision/latest?cb=20130123231754&path-prefix=es",
+    "idColeccion": 2
+  },
+  {
+    "username": "elnacp",
+    "id": 30,
+    "titulo": "Last Game 6",
+    "autor": "Amano Shinobu",
+    "valoracion": 4,
+    "precio": 6.5,
+    "genero": "Romance",
+    "idioma": "Español",
+    "paginas": 150,
+    "tamaño": 105,
+    "resumen": "Last Game narra la historia de Yanagi, un niño que en primaria lo tenía todo: era popular, rico, atractivo y el primero en los estudios y en los deportes, el absoluto rey de su escuela. Hasta que apareció una niña llamada Kujo que, sin darle la menor importancia, comenzó a superarlo en todo.",
+    "url": "https://www.normaeditorial.com/upload/media/albumes/0001/06/1426613b190dd2035233f3fc9bd3cda0491b93aa.jpeg",
+    "idColeccion": 5
+  }
+]

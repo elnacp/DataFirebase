@@ -98,18 +98,17 @@ autores.forEach(function(obj_autores) {
     });
 });*/
 
-/*
-const json_comentarios = require('./comentarios.json')
+
+/*const json_comentarios = require('./comentarios.json')
 var comentarios = json_comentarios
 
 comentarios.forEach(function(obj_comentarios) {
     db.collection("Comentario").add({
         IdComentario: obj_comentarios.IdComentario,
-        IdUsuario: obj_comentarios.IdUsuario,
+        username: obj_comentarios.username,
         IdManga: obj_comentarios.IdManga,
         Valoracion: obj_comentarios.Valoracion,
         Comentario: obj_comentarios.Comentario,
-        fecha: obj_comentarios.fecha,
         Likes: obj_comentarios.Likes,
         Dislikes: obj_comentarios.Dislikes
     }).then(function(docRef) {
@@ -118,27 +117,105 @@ comentarios.forEach(function(obj_comentarios) {
     .catch(function(error) {
         console.error("Error adding document: ", error);
     });
+});
+*/
+
+/*const json = require('./wishlist.json')
+var wishlist = json;
+
+wishlist.forEach(function(obj_wishlist) {
+    db.collection("Wishlist").add({
+        username: obj_wishlist.username,
+        id: obj_wishlist.id,
+        titulo: obj_wishlist.titulo,
+        autor: obj_wishlist.autor,
+        valoracion: obj_wishlist.valoracion, 
+        precio: obj_wishlist.precio,
+        genero: obj_wishlist.genero,
+        idioma: obj_wishlist.idioma,
+        paginas: obj_wishlist.paginas,
+        tamaño: obj_wishlist.tamaño,
+        resumen: obj_wishlist.resumen,
+        url: obj_wishlist.url,
+        idColeccion: obj_wishlist.idColeccion
+    }).then(function(docRef) {
+        console.log("Document written with ID: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
 });*/
 
+/*
+const json = require('./colecciones.json')
+var colecciones = json;
 
-const json_user = require('./users.json')
-var users = json_user
-
-users.forEach(function(obj_users){
-    db.collection("Users").add({
-        id: obj_users.id,
-        username: obj_users.username,
-        email: obj_users.email,
-        contraseña: obj_users.contraseña,
-        descripcion: obj_users.descripcion,
-        generoFavorito: obj_users.generoFavorito,
-        loggeado: obj_users.loggeado,
-        idMangas: obj_users.idMangas,
-        followers: obj_users.followers,
-        following: obj_users.following,
-        imagen: obj_users.imagen
+colecciones.forEach(function(obj_colecciones){
+    db.collection("Colecciones").add({
+        id: obj_colecciones.id,
+        nombre: obj_colecciones.nombre,
+        autor: obj_colecciones.autor,
+        url: obj_colecciones.url
     }).then(function(docRef) {
-        console.log("ID users: ", docRef.id);
+        console.log("Document written with ID colecciones: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
+});*/
+
+/*const json = require('./biblioteca.json')
+var biblioteca = json
+
+biblioteca.forEach(function(obj_biblioteca){
+    db.collection("Biblioteca").add({
+        username: obj_biblioteca.username,
+        titulo: obj_biblioteca.titulo,
+        autor: obj_biblioteca.autor,
+        idioma: obj_biblioteca.idioma,
+        paginas: obj_biblioteca.paginas,
+        url: obj_biblioteca.url,
+        percentage: obj_biblioteca.percentage
+    }).then(function(docRef) {
+        console.log("Document written with ID biblioteca: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
+});*/
+
+/*
+const json = require('./coleccionesbiblioteca.json')
+var coleccionesBiblioteca = json 
+
+coleccionesBiblioteca.forEach(function(obj_coleccionesBiblioteca){
+    db.collection("Colecciones Biblioteca").add({
+        username: obj_coleccionesBiblioteca.username,
+        nombreColeccion: obj_coleccionesBiblioteca.nombreColeccion,
+        titulo: obj_coleccionesBiblioteca.titulo,
+        autor: obj_coleccionesBiblioteca.autor,
+        idioma: obj_coleccionesBiblioteca.idioma,
+        paginas: obj_coleccionesBiblioteca.paginas,
+        url: obj_coleccionesBiblioteca.url,
+        percentage: obj_coleccionesBiblioteca.percentage
+    }).then(function(docRef) {
+        console.log("Document written with ID coleccion Biblioteca: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
+});*/
+
+const json = require('./suscripcion.json')
+var suscripcion = json
+
+suscripcion.forEach(function(obj_suscripcion){
+    db.collection("Suscripcion").add({
+        username: obj_suscripcion.username,
+        suscrito: obj_suscripcion.suscrito,
+        plan: obj_suscripcion.plan
+    }).then(function(docRef) {
+        console.log("Document written with ID suscripcion: ", docRef.id);
     })
     .catch(function(error) {
         console.error("Error adding document: ", error);

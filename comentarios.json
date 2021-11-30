@@ -1,402 +1,362 @@
 [
   {
     "IdComentario": 1,
-    "IdUsuario": 5,
-    "IdManga": 75,
-    "Valoracion": 3,
+    "username": "elnacp",
+    "IdManga": 31,
+    "Valoracion": 1,
     "Comentario": "Mencanta el manga",
-    "fecha": "9/5/16",
-    "Likes": 40,
-    "Dislikes": 44
+  "Likes": 74,
+    "Dislikes": 99
   },
   {
     "IdComentario": 2,
-    "IdUsuario": 5,
-    "IdManga": 47,
-    "Valoracion": 5,
+    "username": "elnacp",
+    "IdManga": 65,
+    "Valoracion": 1,
     "Comentario": "Que bonita historia",
-    "fecha": "9/11/21",
-    "Likes": 49,
-    "Dislikes": 39
-  },
-  {
-    "IdComentario": 3,
-    "IdUsuario": 0,
-    "IdManga": 40,
-    "Valoracion": 3,
-    "Comentario": "No me gusta nada",
-    "fecha": "3/11/20",
-    "Likes": 50,
-    "Dislikes": 58
-  },
-  {
-    "IdComentario": 4,
-    "IdUsuario": 0,
-    "IdManga": 24,
-    "Valoracion": 4,
-    "Comentario": "Es muy original",
-    "fecha": "2/27/16",
-    "Likes": 29,
-    "Dislikes": 95
-  },
-  {
-    "IdComentario": 5,
-    "IdUsuario": 0,
-    "IdManga": 77,
-    "Valoracion": 0,
-    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
-    "fecha": "6/7/19",
-    "Likes": 38,
-    "Dislikes": 29
-  },
-  {
-    "IdComentario": 6,
-    "IdUsuario": 1,
-    "IdManga": 23,
-    "Valoracion": 2,
-    "Comentario": "Mencanta el manga",
-    "fecha": "5/1/17",
-    "Likes": 69,
-    "Dislikes": 67
-  },
-  {
-    "IdComentario": 7,
-    "IdUsuario": 5,
-    "IdManga": 39,
-    "Valoracion": 3,
-    "Comentario": "Que bonita historia",
-    "fecha": "9/7/17",
-    "Likes": 13,
-    "Dislikes": 23
-  },
-  {
-    "IdComentario": 8,
-    "IdUsuario": 4,
-    "IdManga": 15,
-    "Valoracion": 2,
-    "Comentario": "No me gusta nada",
-    "fecha": "6/27/19",
-    "Likes": 51,
-    "Dislikes": 21
-  },
-  {
-    "IdComentario": 9,
-    "IdUsuario": 1,
-    "IdManga": 20,
-    "Valoracion": 2,
-    "Comentario": "Es muy original",
-    "fecha": "7/28/17",
-    "Likes": 97,
-    "Dislikes": 44
-  },
-  {
-    "IdComentario": 10,
-    "IdUsuario": 0,
-    "IdManga": 66,
-    "Valoracion": 3,
-    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
-    "fecha": "4/4/18",
-    "Likes": 71,
-    "Dislikes": 3
-  },
-  {
-    "IdComentario": 11,
-    "IdUsuario": 2,
-    "IdManga": 35,
-    "Valoracion": 3,
-    "Comentario": "Mencanta el manga",
-    "fecha": "12/31/19",
-    "Likes": 95,
-    "Dislikes": 79
-  },
-  {
-    "IdComentario": 12,
-    "IdUsuario": 0,
-    "IdManga": 35,
-    "Valoracion": 3,
-    "Comentario": "Que bonita historia",
-    "fecha": "2/3/20",
-    "Likes": 33,
+     "Likes": 29,
     "Dislikes": 83
   },
   {
-    "IdComentario": 13,
-    "IdUsuario": 3,
-    "IdManga": 56,
-    "Valoracion": 5,
+    "IdComentario": 3,
+    "username": "elnacp",
+    "IdManga": 47,
+    "Valoracion": 3,
     "Comentario": "No me gusta nada",
-    "fecha": "1/27/18",
-    "Likes": 78,
-    "Dislikes": 55
+     "Likes": 56,
+    "Dislikes": 36
   },
   {
-    "IdComentario": 14,
-    "IdUsuario": 4,
-    "IdManga": 77,
-    "Valoracion": 5,
+    "IdComentario": 4,
+    "username": "elnacp",
+    "IdManga": 53,
+    "Valoracion": 4,
     "Comentario": "Es muy original",
-    "fecha": "4/2/16",
-    "Likes": 4,
+     "Likes": 58,
     "Dislikes": 24
   },
   {
-    "IdComentario": 15,
-    "IdUsuario": 1,
-    "IdManga": 40,
+    "IdComentario": 5,
+    "username": "elnacp",
+    "IdManga": 16,
     "Valoracion": 2,
     "Comentario": "Creo que no se parece nada a la historia del manga anterior",
-    "fecha": "2/28/20",
-    "Likes": 71,
-    "Dislikes": 69
+     "Likes": 42,
+    "Dislikes": 7
+  },
+  {
+    "IdComentario": 6,
+    "username": "elnacp",
+    "IdManga": 40,
+    "Valoracion": 5,
+    "Comentario": "Mencanta el manga",
+     "Likes": 89,
+    "Dislikes": 46
+  },
+  {
+    "IdComentario": 7,
+    "username": "elnacp",
+    "IdManga": 46,
+    "Valoracion": 3,
+    "Comentario": "Que bonita historia",
+      "Likes": 62,
+    "Dislikes": 72
+  },
+  {
+    "IdComentario": 8,
+    "username": "elnacp",
+    "IdManga": 5,
+    "Valoracion": 0,
+    "Comentario": "No me gusta nada",
+     "Likes": 95,
+    "Dislikes": 33
+  },
+  {
+    "IdComentario": 9,
+    "username": "elnacp",
+    "IdManga": 75,
+    "Valoracion": 2,
+    "Comentario": "Es muy original",
+     "Likes": 27,
+    "Dislikes": 13
+  },
+  {
+    "IdComentario": 10,
+    "username": "elnacp",
+    "IdManga": 88,
+    "Valoracion": 2,
+    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
+     "Likes": 39,
+    "Dislikes": 70
+  },
+  {
+    "IdComentario": 11,
+    "username": "elnacp",
+    "IdManga": 63,
+    "Valoracion": 2,
+    "Comentario": "Mencanta el manga",
+  "Likes": 28,
+    "Dislikes": 4
+  },
+  {
+    "IdComentario": 12,
+    "username": "elnacp",
+    "IdManga": 51,
+    "Valoracion": 2,
+    "Comentario": "Que bonita historia",
+     "Likes": 78,
+    "Dislikes": 10
+  },
+  {
+    "IdComentario": 13,
+    "username": "elnacp",
+    "IdManga": 40,
+    "Valoracion": 5,
+    "Comentario": "No me gusta nada",
+      "Likes": 71,
+    "Dislikes": 18
+  },
+  {
+    "IdComentario": 14,
+    "username": "elnacp",
+    "IdManga": 14,
+    "Valoracion": 1,
+    "Comentario": "Es muy original",
+  "Likes": 10,
+    "Dislikes": 99
+  },
+  {
+    "IdComentario": 15,
+    "username": "elnacp",
+    "IdManga": 69,
+    "Valoracion": 4,
+    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
+     "Likes": 94,
+    "Dislikes": 100
   },
   {
     "IdComentario": 16,
-    "IdUsuario": 0,
-    "IdManga": 86,
-    "Valoracion": 3,
+    "username": "elnacp",
+    "IdManga": 66,
+    "Valoracion": 1,
     "Comentario": "Mencanta el manga",
-    "fecha": "6/9/18",
-    "Likes": 42,
-    "Dislikes": 11
+     "Likes": 4,
+    "Dislikes": 33
   },
   {
     "IdComentario": 17,
-    "IdUsuario": 5,
-    "IdManga": 29,
-    "Valoracion": 1,
+    "username": "elnacp",
+    "IdManga": 47,
+    "Valoracion": 3,
     "Comentario": "Que bonita historia",
-    "fecha": "4/25/19",
-    "Likes": 25,
-    "Dislikes": 80
+     "Likes": 25,
+    "Dislikes": 68
   },
   {
     "IdComentario": 18,
-    "IdUsuario": 3,
-    "IdManga": 42,
-    "Valoracion": 1,
+    "username": "elnacp",
+    "IdManga": 76,
+    "Valoracion": 5,
     "Comentario": "No me gusta nada",
-    "fecha": "5/17/21",
-    "Likes": 39,
-    "Dislikes": 27
+     "Likes": 47,
+    "Dislikes": 28
   },
   {
     "IdComentario": 19,
-    "IdUsuario": 0,
-    "IdManga": 46,
+    "username": "elnacp",
+    "IdManga": 70,
     "Valoracion": 4,
     "Comentario": "Es muy original",
-    "fecha": "1/20/21",
-    "Likes": 21,
-    "Dislikes": 36
+      "Likes": 18,
+    "Dislikes": 86
   },
   {
     "IdComentario": 20,
-    "IdUsuario": 0,
-    "IdManga": 39,
-    "Valoracion": 1,
+    "username": "elnacp",
+    "IdManga": 56,
+    "Valoracion": 3,
     "Comentario": "Creo que no se parece nada a la historia del manga anterior",
-    "fecha": "12/1/19",
-    "Likes": 55,
-    "Dislikes": 26
+      "Likes": 61,
+    "Dislikes": 54
   },
   {
     "IdComentario": 21,
-    "IdUsuario": 2,
-    "IdManga": 63,
-    "Valoracion": 5,
+    "username": "cinta",
+    "IdManga": 22,
+    "Valoracion": 3,
     "Comentario": "Mencanta el manga",
-    "fecha": "9/12/17",
-    "Likes": 93,
-    "Dislikes": 21
+     "Likes": 61,
+    "Dislikes": 53
   },
   {
     "IdComentario": 22,
-    "IdUsuario": 5,
-    "IdManga": 73,
+    "username": "cinta",
+    "IdManga": 6,
     "Valoracion": 3,
     "Comentario": "Que bonita historia",
-    "fecha": "10/10/19",
-    "Likes": 89,
-    "Dislikes": 13
+  "Likes": 40,
+    "Dislikes": 73
   },
   {
     "IdComentario": 23,
-    "IdUsuario": 4,
-    "IdManga": 55,
-    "Valoracion": 1,
+    "username": "cinta",
+    "IdManga": 43,
+    "Valoracion": 0,
     "Comentario": "No me gusta nada",
-    "fecha": "10/30/20",
-    "Likes": 0,
-    "Dislikes": 63
+     "Likes": 22,
+    "Dislikes": 46
   },
   {
     "IdComentario": 24,
-    "IdUsuario": 5,
-    "IdManga": 19,
-    "Valoracion": 5,
+    "username": "cinta",
+    "IdManga": 71,
+    "Valoracion": 1,
     "Comentario": "Es muy original",
-    "fecha": "7/28/20",
-    "Likes": 16,
-    "Dislikes": 63
-  },
-  {
-    "IdComentario": 25,
-    "IdUsuario": 2,
-    "IdManga": 19,
-    "Valoracion": 5,
-    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
-    "fecha": "4/14/20",
-    "Likes": 19,
-    "Dislikes": 62
-  },
-  {
-    "IdComentario": 26,
-    "IdUsuario": 5,
-    "IdManga": 60,
-    "Valoracion": 4,
-    "Comentario": "Mencanta el manga",
-    "fecha": "5/22/21",
-    "Likes": 18,
-    "Dislikes": 71
-  },
-  {
-    "IdComentario": 27,
-    "IdUsuario": 2,
-    "IdManga": 79,
-    "Valoracion": 4,
-    "Comentario": "Que bonita historia",
-    "fecha": "10/26/18",
-    "Likes": 49,
+     "Likes": 52,
     "Dislikes": 81
   },
   {
-    "IdComentario": 28,
-    "IdUsuario": 5,
-    "IdManga": 47,
+    "IdComentario": 25,
+    "username": "cinta",
+    "IdManga": 85,
+    "Valoracion": 2,
+    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
+     "Likes": 20,
+    "Dislikes": 16
+  },
+  {
+    "IdComentario": 26,
+    "username": "cinta",
+    "IdManga": 16,
     "Valoracion": 4,
+    "Comentario": "Mencanta el manga",
+  "Likes": 79,
+    "Dislikes": 41
+  },
+  {
+    "IdComentario": 27,
+    "username": "cinta",
+    "IdManga": 49,
+    "Valoracion": 0,
+    "Comentario": "Que bonita historia",
+     "Likes": 37,
+    "Dislikes": 84
+  },
+  {
+    "IdComentario": 28,
+    "username": "cinta",
+    "IdManga": 64,
+    "Valoracion": 3,
     "Comentario": "No me gusta nada",
-    "fecha": "7/19/17",
-    "Likes": 43,
-    "Dislikes": 14
+      "Likes": 91,
+    "Dislikes": 81
   },
   {
     "IdComentario": 29,
-    "IdUsuario": 5,
-    "IdManga": 16,
+    "username": "cinta",
+    "IdManga": 72,
     "Valoracion": 1,
     "Comentario": "Es muy original",
-    "fecha": "10/5/16",
-    "Likes": 14,
-    "Dislikes": 14
+     "Likes": 29,
+    "Dislikes": 99
   },
   {
     "IdComentario": 30,
-    "IdUsuario": 0,
-    "IdManga": 56,
-    "Valoracion": 0,
-    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
-    "fecha": "11/27/16",
-    "Likes": 13,
-    "Dislikes": 72
-  },
-  {
-    "IdComentario": 31,
-    "IdUsuario": 1,
-    "IdManga": 9,
-    "Valoracion": 4,
-    "Comentario": "Mencanta el manga",
-    "fecha": "11/12/17",
-    "Likes": 94,
-    "Dislikes": 13
-  },
-  {
-    "IdComentario": 32,
-    "IdUsuario": 0,
-    "IdManga": 38,
-    "Valoracion": 1,
-    "Comentario": "Que bonita historia",
-    "fecha": "11/3/21",
-    "Likes": 48,
-    "Dislikes": 96
-  },
-  {
-    "IdComentario": 33,
-    "IdUsuario": 4,
-    "IdManga": 6,
-    "Valoracion": 1,
-    "Comentario": "No me gusta nada",
-    "fecha": "8/24/21",
-    "Likes": 32,
-    "Dislikes": 37
-  },
-  {
-    "IdComentario": 34,
-    "IdUsuario": 5,
-    "IdManga": 17,
-    "Valoracion": 4,
-    "Comentario": "Es muy original",
-    "fecha": "6/10/17",
-    "Likes": 81,
-    "Dislikes": 76
-  },
-  {
-    "IdComentario": 35,
-    "IdUsuario": 3,
-    "IdManga": 40,
-    "Valoracion": 2,
-    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
-    "fecha": "8/14/16",
-    "Likes": 50,
-    "Dislikes": 31
-  },
-  {
-    "IdComentario": 36,
-    "IdUsuario": 1,
-    "IdManga": 61,
-    "Valoracion": 4,
-    "Comentario": "Mencanta el manga",
-    "fecha": "5/9/21",
-    "Likes": 51,
-    "Dislikes": 95
-  },
-  {
-    "IdComentario": 37,
-    "IdUsuario": 5,
-    "IdManga": 33,
+    "username": "cinta",
+    "IdManga": 57,
     "Valoracion": 3,
-    "Comentario": "Que bonita historia",
-    "fecha": "8/5/17",
-    "Likes": 76,
+    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
+     "Likes": 52,
     "Dislikes": 36
   },
   {
-    "IdComentario": 38,
-    "IdUsuario": 3,
-    "IdManga": 58,
-    "Valoracion": 1,
+    "IdComentario": 31,
+    "username": "cinta",
+    "IdManga": 12,
+    "Valoracion": 0,
+    "Comentario": "Mencanta el manga",
+  "Likes": 4,
+    "Dislikes": 78
+  },
+  {
+    "IdComentario": 32,
+    "username": "cinta",
+    "IdManga": 25,
+    "Valoracion": 4,
+    "Comentario": "Que bonita historia",
+  "Likes": 6,
+    "Dislikes": 42
+  },
+  {
+    "IdComentario": 33,
+    "username": "cinta",
+    "IdManga": 12,
+    "Valoracion": 0,
     "Comentario": "No me gusta nada",
-    "fecha": "12/2/20",
-    "Likes": 22,
-    "Dislikes": 76
+     "Likes": 99,
+    "Dislikes": 16
+  },
+  {
+    "IdComentario": 34,
+    "username": "cinta",
+    "IdManga": 51,
+    "Valoracion": 0,
+    "Comentario": "Es muy original",
+     "Likes": 95,
+    "Dislikes": 69
+  },
+  {
+    "IdComentario": 35,
+    "username": "cinta",
+    "IdManga": 40,
+    "Valoracion": 0,
+    "Comentario": "Creo que no se parece nada a la historia del manga anterior",
+     "Likes": 30,
+    "Dislikes": 35
+  },
+  {
+    "IdComentario": 36,
+    "username": "cinta",
+    "IdManga": 24,
+    "Valoracion": 4,
+    "Comentario": "Mencanta el manga",
+     "Likes": 9,
+    "Dislikes": 97
+  },
+  {
+    "IdComentario": 37,
+    "username": "cinta",
+    "IdManga": 31,
+    "Valoracion": 5,
+    "Comentario": "Que bonita historia",
+      "Likes": 55,
+    "Dislikes": 61
+  },
+  {
+    "IdComentario": 38,
+    "username": "cinta",
+    "IdManga": 52,
+    "Valoracion": 5,
+    "Comentario": "No me gusta nada",
+     "Likes": 86,
+    "Dislikes": 93
   },
   {
     "IdComentario": 39,
-    "IdUsuario": 3,
-    "IdManga": 32,
-    "Valoracion": 5,
+    "username": "cinta",
+    "IdManga": 81,
+    "Valoracion": 0,
     "Comentario": "Es muy original",
-    "fecha": "4/9/16",
-    "Likes": 54,
-    "Dislikes": 22
+     "Likes": 44,
+    "Dislikes": 94
   },
   {
     "IdComentario": 40,
-    "IdUsuario": 0,
-    "IdManga": 71,
-    "Valoracion": 2,
+    "username": "cinta",
+    "IdManga": 30,
+    "Valoracion": 0,
     "Comentario": "Creo que no se parece nada a la historia del manga anterior",
-    "fecha": "10/14/21",
-    "Likes": 32,
-    "Dislikes": 72
+  "Likes": 87,
+    "Dislikes": 36
   }
 ]

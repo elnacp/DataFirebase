@@ -1,0 +1,14 @@
+[
+  {
+    "username": "elnacp",
+    "number": 123412341234,
+    "fechaCaducidad": "12/12",
+    "cvv": 123
+  },
+  {
+    "username": "cinta",
+    "number": 432143214321,
+    "fechaCaducidad": "10/10",
+    "cvv": 253
+  }
+]

@@ -1,41 +1,41 @@
-IdComentario,IdUsuario,IdManga,Valoracion,Comentario,fecha,Likes,Dislikes
-1,5,75,3,Mencanta el manga,9/5/16,40,44
-2,5,47,5,Que bonita historia,9/11/21,49,39
-3,0,40,3,No me gusta nada ,3/11/20,50,58
-4,0,24,4,Es muy original ,2/27/16,29,95
-5,0,77,0,Creo que no se parece nada a la historia del manga anterior,6/7/19,38,29
-6,1,23,2,Mencanta el manga,5/1/17,69,67
-7,5,39,3,Que bonita historia,9/7/17,13,23
-8,4,15,2,No me gusta nada ,6/27/19,51,21
-9,1,20,2,Es muy original ,7/28/17,97,44
-10,0,66,3,Creo que no se parece nada a la historia del manga anterior,4/4/18,71,3
-11,2,35,3,Mencanta el manga,12/31/19,95,79
-12,0,35,3,Que bonita historia,2/3/20,33,83
-13,3,56,5,No me gusta nada ,1/27/18,78,55
-14,4,77,5,Es muy original ,4/2/16,4,24
-15,1,40,2,Creo que no se parece nada a la historia del manga anterior,2/28/20,71,69
-16,0,86,3,Mencanta el manga,6/9/18,42,11
-17,5,29,1,Que bonita historia,4/25/19,25,80
-18,3,42,1,No me gusta nada ,5/17/21,39,27
-19,0,46,4,Es muy original ,1/20/21,21,36
-20,0,39,1,Creo que no se parece nada a la historia del manga anterior,12/1/19,55,26
-21,2,63,5,Mencanta el manga,9/12/17,93,21
-22,5,73,3,Que bonita historia,10/10/19,89,13
-23,4,55,1,No me gusta nada ,10/30/20,0,63
-24,5,19,5,Es muy original ,7/28/20,16,63
-25,2,19,5,Creo que no se parece nada a la historia del manga anterior,4/14/20,19,62
-26,5,60,4,Mencanta el manga,5/22/21,18,71
-27,2,79,4,Que bonita historia,10/26/18,49,81
-28,5,47,4,No me gusta nada ,7/19/17,43,14
-29,5,16,1,Es muy original ,10/5/16,14,14
-30,0,56,0,Creo que no se parece nada a la historia del manga anterior,11/27/16,13,72
-31,1,9,4,Mencanta el manga,11/12/17,94,13
-32,0,38,1,Que bonita historia,11/3/21,48,96
-33,4,6,1,No me gusta nada ,8/24/21,32,37
-34,5,17,4,Es muy original ,6/10/17,81,76
-35,3,40,2,Creo que no se parece nada a la historia del manga anterior,8/14/16,50,31
-36,1,61,4,Mencanta el manga,5/9/21,51,95
-37,5,33,3,Que bonita historia,8/5/17,76,36
-38,3,58,1,No me gusta nada ,12/2/20,22,76
-39,3,32,5,Es muy original ,4/9/16,54,22
-40,0,71,2,Creo que no se parece nada a la historia del manga anterior,10/14/21,32,72
+IdComentario,username,IdManga,Valoracion,Comentario,fecha,Likes,Dislikes
+1,elnacp,31,1,Mencanta el manga,9/6/20,74,99
+2,elnacp,65,1,Que bonita historia,8/16/17,29,83
+3,elnacp,47,3,No me gusta nada ,2/21/21,56,36
+4,elnacp,53,4,Es muy original ,6/29/17,58,24
+5,elnacp,16,2,Creo que no se parece nada a la historia del manga anterior,9/13/16,42,7
+6,elnacp,40,5,Mencanta el manga,10/8/20,89,46
+7,elnacp,46,3,Que bonita historia,10/26/21,62,72
+8,elnacp,5,0,No me gusta nada ,5/20/19,95,33
+9,elnacp,75,2,Es muy original ,6/23/20,27,13
+10,elnacp,88,2,Creo que no se parece nada a la historia del manga anterior,11/5/18,39,70
+11,elnacp,63,2,Mencanta el manga,6/8/20,28,4
+12,elnacp,51,2,Que bonita historia,7/24/20,78,10
+13,elnacp,40,5,No me gusta nada ,10/23/17,71,18
+14,elnacp,14,1,Es muy original ,6/3/17,10,99
+15,elnacp,69,4,Creo que no se parece nada a la historia del manga anterior,11/5/17,94,100
+16,elnacp,66,1,Mencanta el manga,5/15/20,4,33
+17,elnacp,47,3,Que bonita historia,1/20/17,25,68
+18,elnacp,76,5,No me gusta nada ,1/31/16,47,28
+19,elnacp,70,4,Es muy original ,10/11/18,18,86
+20,elnacp,56,3,Creo que no se parece nada a la historia del manga anterior,12/29/16,61,54
+21,cinta,22,3,Mencanta el manga,3/27/16,61,53
+22,cinta,6,3,Que bonita historia,6/8/17,40,73
+23,cinta,43,0,No me gusta nada ,8/29/18,22,46
+24,cinta,71,1,Es muy original ,5/19/20,52,81
+25,cinta,85,2,Creo que no se parece nada a la historia del manga anterior,5/17/20,20,16
+26,cinta,16,4,Mencanta el manga,1/9/19,79,41
+27,cinta,49,0,Que bonita historia,4/21/17,37,84
+28,cinta,64,3,No me gusta nada ,10/22/20,91,81
+29,cinta,72,1,Es muy original ,7/18/19,29,99
+30,cinta,57,3,Creo que no se parece nada a la historia del manga anterior,6/16/18,52,36
+31,cinta,12,0,Mencanta el manga,9/6/20,4,78
+32,cinta,25,4,Que bonita historia,2/9/18,6,42
+33,cinta,12,0,No me gusta nada ,6/14/16,99,16
+34,cinta,51,0,Es muy original ,7/20/17,95,69
+35,cinta,40,0,Creo que no se parece nada a la historia del manga anterior,3/26/21,30,35
+36,cinta,24,4,Mencanta el manga,9/22/17,9,97
+37,cinta,31,5,Que bonita historia,12/10/20,55,61
+38,cinta,52,5,No me gusta nada ,2/20/19,86,93
+39,cinta,81,0,Es muy original ,6/10/18,44,94
+40,cinta,30,0,Creo que no se parece nada a la historia del manga anterior,9/5/21,87,36
