@@ -206,7 +206,7 @@ coleccionesBiblioteca.forEach(function(obj_coleccionesBiblioteca){
     });
 });*/
 
-const json = require('./suscripcion.json')
+/*const json = require('./suscripcion.json')
 var suscripcion = json
 
 suscripcion.forEach(function(obj_suscripcion){
@@ -216,6 +216,39 @@ suscripcion.forEach(function(obj_suscripcion){
         plan: obj_suscripcion.plan
     }).then(function(docRef) {
         console.log("Document written with ID suscripcion: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
+});*/
+
+const json = require('./tarjeta.json')
+var tarjeta = json
+
+tarjeta.forEach(function(obj_tarjeta){
+    db.collection("Tarjeta").add({
+        username: obj_tarjeta.username,
+        number: obj_tarjeta.number,
+        fechaCaducidad: obj_tarjeta.fechaCaducidad,
+        cvv: obj_tarjeta.cvv
+    }).then(function(docRef) {
+        console.log("Document written with ID tarjeta: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
+});
+
+
+const json_paypal = require('./paypal.json')
+var paypal = json_paypal
+
+paypal.forEach(function(obj_paypal){
+    db.collection("Paypal").add({
+        username: obj_paypal.username,
+        email: obj_paypal.email
+    }).then(function(docRef) {
+        console.log("Document written with ID paypal: ", docRef.id);
     })
     .catch(function(error) {
         console.error("Error adding document: ", error);
