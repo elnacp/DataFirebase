@@ -184,7 +184,7 @@ biblioteca.forEach(function(obj_biblioteca){
     });
 });*/
 
-/*
+
 const json = require('./coleccionesbiblioteca.json')
 var coleccionesBiblioteca = json 
 
@@ -204,7 +204,7 @@ coleccionesBiblioteca.forEach(function(obj_coleccionesBiblioteca){
     .catch(function(error) {
         console.error("Error adding document: ", error);
     });
-});*/
+});
 
 /*const json = require('./suscripcion.json')
 var suscripcion = json
@@ -221,7 +221,7 @@ suscripcion.forEach(function(obj_suscripcion){
         console.error("Error adding document: ", error);
     });
 });*/
-
+/*
 const json = require('./tarjeta.json')
 var tarjeta = json
 
@@ -253,4 +253,46 @@ paypal.forEach(function(obj_paypal){
     .catch(function(error) {
         console.error("Error adding document: ", error);
     });
+});*/
+
+/*
+const json_shoplist = require('./shoplist.json')
+var shoplist = json_shoplist
+
+shoplist.forEach(function(obj_shoplist){
+    db.collection("ShopList").add({
+        titulo: obj_shoplist.titulo,
+        autor: obj_shoplist.autor,
+        precio: obj_shoplist.precio,
+        cantidad: obj_shoplist.cantidad,
+        url: obj_shoplist.url,
+        username: obj_shoplist.username
+    }).then(function(docRef) {
+        console.log("Document written with ID shoplist: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
+});*/
+
+/*
+const json_notificaciones = require('./notificaciones.json')
+var notificaciones = json_notificaciones
+
+notificaciones.forEach(function(obj_notificaciones){
+    db.collection("Notificaciones").add({
+        url: obj_notificaciones.url, 
+        username: obj_notificaciones.username, 
+        tipo: obj_notificaciones.tipo,
+        text_notis: obj_notificaciones.text_notis,
+        likes: obj_notificaciones.likes,
+        dislikes: obj_notificaciones.dislikes,
+        comentarios: obj_notificaciones.comentarios
+    }).then(function(docRef) {
+        console.log("Document written with ID notificaciones: ", docRef.id);
+    })
+    .catch(function(error) {
+        console.error("Error adding document: ", error);
+    });
 });
+*/

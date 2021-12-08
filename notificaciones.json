@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "username": "carlos",
+    "tipo": "comentario",
+    "text_notis": "Mencanta",
+    "likes": 10,
+    "dislikes": 0,
+    "comentarios": 5
+  },
+  {
+    "url": "https://us.123rf.com/450wm/fizkes/fizkes2007/fizkes200701872/152319944-close-up-headshot-portrait-of-smiling-vietnamese-young-woman-look-at-camera-talk-on-video-call-profi.jpg?ver=6",
+    "username": "andrea",
+    "tipo": "dislike",
+    "text_notis": "-",
+    "likes": 20,
+    "dislikes": 10,
+    "comentarios": 10
+  },
+  {
+    "url": "https://www.adobe.com/express/create/media_127540366421d3d5bfcaf8202527ca7d37741fd5d.jpeg?width=2000&format=webply&optimize=medium",
+    "username": "ruben",
+    "tipo": "like",
+    "text_notis": "-",
+    "likes": 50,
+    "dislikes": 20,
+    "comentarios": 15
+  }
+]
